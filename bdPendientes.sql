@@ -1,0 +1,2 @@
+CREATE DATABASE bdTemporal;
+DROP DATABASE bdTemporal;
